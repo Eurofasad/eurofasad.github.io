@@ -1,0 +1,52 @@
+@font-face {
+  font-family: 'nerislight';
+  src: url("Fonts/neris-light-webfont.eot");
+  src: url("Fonts/neris-light-webfont.eot?#iefix") format("embedded-opentype"), url("Fonts/neris-light-webfont.woff2") format("woff2"), url("Fonts/neris-light-webfont.woff") format("woff"), url("Fonts/neris-light-webfont.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'nerissemibold';
+  src: url("Fonts/neris-semibold-webfont.eot");
+  src: url("Fonts/neris-semibold-webfont.eot?#iefix") format("embedded-opentype"), url("Fonts/neris-semibold-webfont.woff2") format("woff2"), url("Fonts/neris-semibold-webfont.woff") format("woff"), url("Fonts/neris-semibold-webfont.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+body {
+  font-family: 'nerislight';
+  margin: 0;
+  padding: 0;
+  font-size: 17px; }
+
+.top-margin {
+  margin-top: 10em; }
+
+.top-padding {
+  padding-top: 20px; }
+
+.grundge-bckgr {
+  background-image: url(Images/index_backgr_stripe.jpg); }
+
+h1 {
+  font-family: 'nerissemibold';
+  font-size: 23px;
+  text-transform: uppercase;
+  padding-top: 1em; }
+
+.ribbon {
+  padding: 10px 0;
+  background-color: #fdff16;
+  min-height: 162px; }
+
+a.img {
+  margin: 5px;
+  border: 1px solid #f6f6f6;
+  float: left;
+  width: 180px; }
+
+a.img:hover {
+  border: 1px solid #f6f6f6; }
+
+a.img img {
+  width: 100%;
+  height: auto; }
+
+/*# sourceMappingURL=style.css.map */
